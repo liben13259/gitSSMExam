@@ -1,0 +1,5 @@
+com\hand\ssm\mapper\CustomerMapper.class
+com\hand\ssm\service\CustomerService.class
+com\hand\ssm\service\impl\CustomerServiceImpl.class
+com\hand\ssm\controller\CustomerController.class
+com\hand\ssm\entities\Customer.class
